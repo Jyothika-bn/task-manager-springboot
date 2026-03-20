@@ -12,6 +12,7 @@ A backend application built using Spring Boot that allows users to manage tasks 
 - Exception handling & validation
 
 ## 🛠 Tech Stack
+
 - Java
 - Spring Boot
 - MySQL
